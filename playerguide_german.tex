@@ -2,7 +2,7 @@
 % rather than alternate every other.
 %
 % Note that the article class does not have chapters.
-\documentclass[letterpaper,10pt,twoside,twocolumn,openany]{dndbook}
+\documentclass[letterpaper,8pt,twoside,twocolumn,openany]{dndbook}
 
 % Use babel or polyglossia to automatically redefine macros for terms
 % Armor Class, Level, etc...
@@ -29,7 +29,7 @@
 }
 
 \title{
-\centering\includegraphics[width=12cm]{img/logo}\\Dungeons And Dragons\\Grundregeln für Spieler\\Version 0.3\\}
+\centering\includegraphics[width=12cm]{img/logo}\\Dungeons And Dragons\\Grundregeln für Spieler\\Version 0.3\\\thanks{Nur für private Verwendung}}
 \date{Letztes Update:\\\today}
 \author{DnD Team\thanks{\url{https://media.wizards.com/2016/downloads/DND/PlayerBasicRulesV03.pdf}} \and Open-DnD-Translation Team\thanks{dungeonsanddragonstranslate.github.io}}
 
@@ -37,6 +37,7 @@
 \begin{document}
 \maketitle
 \tableofcontents
-\include{chapters/one}
+\include{chapters/0/0_german}
+\include{chapters/1/1_german}
 
 \end{document}
