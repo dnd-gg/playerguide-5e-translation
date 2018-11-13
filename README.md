@@ -1,11 +1,11 @@
 # dungeons-and-dragons-german
 
-Free and open translation of the open and free published gamerules of Dungeons and Dragons. Made by a newbie. Feel free to correct it.
+Free and open translation of the open and free published gamerules of Dungeons and Dragons. Made by newbies. Feel free to correct it.
 
 ![](https://img.shields.io/badge/DnD%20Version-5E-green.svg) <br>
 [![](https://img.shields.io/badge/LatTeX%20Template-DnD%205E%20LaTeX%20Template%20v.0.6.0-green.svg)](https://github.com/evanbergeron/DND-5e-LaTeX-Template)
 
-PRs from hardcore fans who want to correct everything that is wrong are solicited!
+PRs from hardcore fans who want to correct everything in this document are solicited! 
 
 [Original Public Released Playerguide](https://media.wizards.com/2016/downloads/DND/PlayerBasicRulesV03.pdf)
 
