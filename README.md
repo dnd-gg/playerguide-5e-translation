@@ -11,7 +11,7 @@ PRs from hardcore fans who want to correct everything that is wrong are solicite
 
 # Submit Rules
 ## Filetype
-[chapternumber]_german.tex
+(root)/chapter/[chapternumber]/[chapternumber]_[language].tex
 ## Style
 Write in 2nd Person in presence.
 boldfont with 
